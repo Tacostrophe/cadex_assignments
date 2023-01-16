@@ -2,14 +2,13 @@
 
 ### Описание поставленной задачи
 
-```
 1. Create cross-platform build script for the simplest C/C++ program (triangle surface area computation). The code is provided below – it contains an intentional error (bug) inside the code.
 Make sure to find it and fix it.
 
 2. The build script must be based on cmake, qmake, GNU make or any other type at your discretion.
 
 3. The application must be made in the form of a shared library (.dll, .so, .dylib) and executable (.exe).
-```
+
 ### Инструкции по применению (рекомендации)
 
 Перед запуском должен быть установлен [cmake](https://cmake.org/)
